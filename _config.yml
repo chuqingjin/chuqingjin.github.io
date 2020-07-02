@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Chuqing Jin"
-title_separator          :
-name                     :
-description              : &description "PhD student in Economics, Boston University"
+title_separator          : "-"
+name                     : &name "Chuqing Jin"
+description              : &description "Homepage for Chuqing Jin"
 url                      : https://chuqingjin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chuqingjin/chuqingjin.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chuqing Jin"
   avatar           : "profile.jpeg"
-  bio              : "PhD student in Economics, Boston University"
+  bio              : "PhD student in Economics, Boston University<br>cjin@bu.edu"
   location         : "Boston/Hangzhou"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "cjin@bu.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : "http://chuqingjin.github.io/files/ChuqingJin_CV.pdf"
 
 # Reading Files
 include:
