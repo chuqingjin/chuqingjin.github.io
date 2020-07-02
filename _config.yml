@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chuqing Jin"
   avatar           : "profile.jpeg"
-  bio              : "PhD student in Economics, Boston University<br>cjin@bu.edu"
+  bio              : "PhD student in Economics, Boston University"
   location         : "Boston/Hangzhou"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "cjin@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
