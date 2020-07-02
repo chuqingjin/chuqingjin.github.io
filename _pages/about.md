@@ -14,8 +14,6 @@ I am a fifth year PhD student in Economics at Boston University. I am interested
 
 <br>
 
-<br>
-
 # Working papers
 
 * Does Competition Between Experts Improve Information Accuracy? Evidence from the Security Analyst Market
