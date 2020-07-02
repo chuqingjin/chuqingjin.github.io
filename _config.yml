@@ -87,16 +87,16 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "cjin@bu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  "http://chuqingjin.github.io/files/ChuqingJin_CV.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chuqingjin"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "chuxcy"
+  twitter          :
   vine             :
   weibo            :
   xing             :
