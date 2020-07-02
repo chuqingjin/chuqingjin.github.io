@@ -5,9 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-paperurl: 'http://chuqingjin.github.io/files/ChuqingJin_CV.pdf'
 ---
 
 {% include base_path %}
 
-Download my [CV](http://chuqingjin.github.io/files/ChuqingJin_CV.pdf). 
+Download my [CV](http://chuqingjin.github.io/files/ChuqingJin_CV.pdf).
