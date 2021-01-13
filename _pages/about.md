@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Boston University. I am interested in Empirical Industrial Organization and Applied Econometrics. I aim to understand how competition affects the quality of information and products. My current projects make use of micro-data in the financial industry and cloud-computing industry to disentangle strategic incentives from heterogeneity at various levels. 
+I am a PhD student in Economics at Boston University. My research falls at the intersection of industrial organization and applied econometrics. I create models to help understand the incentives for competition in different industries such as finance and cloud computing. In particular, I am interested in models that build on deep institutional knowledge and yield empirical findings to guide policy. For example, in the financial industry, I use micro-data to disentangle analysts’ incentives for information provision and derive implications for competition policies.
 
 
 
