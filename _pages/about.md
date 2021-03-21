@@ -28,9 +28,9 @@ I am a PhD Candidate in Economics at Boston University. My research falls at the
 
   * *Competition leads financial analysts to distort their forecasts to differentiate from their peers, but also disciplines their optimism bias. The disciplinary effect dominates in the current market, suggesting an overall positive effect of competition.*
 
-    ![distortion](images/distortion.png)
+    ![distortion](/images/distortion.png)
 
-    ![discipline](images/discipline.png)
+    ![discipline](/images/discipline.png)
 
 * Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng
 
