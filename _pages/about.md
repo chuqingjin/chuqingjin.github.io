@@ -8,13 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Boston University. My research falls at the intersection of industrial organization and applied econometrics. I create models to help understand the incentives for competition in different industries such as finance and cloud computing. In particular, I am interested in models that build on deep institutional knowledge and yield empirical findings to guide policy. For example, in the financial industry, I use micro-data to disentangle analysts’ incentives for information provision and derive implications for competition policies.
+I am a PhD Candidate in Economics at Boston University. My research falls at the intersection of industrial organization and applied econometrics. I create models to help understand the incentives for competition in different industries such as finance and public cloud. In particular, I am interested in models that build on deep institutional knowledge and yield empirical findings to guide policy. For example, in the financial industry, I use micro-data to disentangle analysts’ incentives for information provision and derive implications for competition policies.
 
 
 
 <br>
 
+# News
+
+* Feb. 2021: I presented the paper on security analyst competition in the Brown Bag Seminar at Singapore Management University.
+* Jan. 2021: I presented the paper on security analyst competition, and the paper on cloud welfare in the Brown Bag Seminar at Nanyang Technological University. 
+* Nov. 2020: I presented our paper on cloud welfare in the Digital Stars Seminar Series at Zhejiang University.
+
+<br>
+
 # Working papers
 
-* Does Competition Between Experts Improve Information Accuracy? Evidence from the Security Analyst Market
-* Welfare on Cloud: Estimating Inertia in the Infrastructure-as-a-Service Market, joint with Peichun Wang and Sida Peng
+* Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market
+
+  * *Competition leads financial analysts to distort their forecasts to differentiate from their peers, but also disciplines their optimism bias. The disciplinary effect dominates in the current market, suggesting an overall positive effect of competition.*
+
+    ![distortion](C:\Users\JINC0\Documents\chuqingjin.github.io\images\distortion.png)
+
+    ![discipline](C:\Users\JINC0\Documents\chuqingjin.github.io\images\discipline.png)
+
+* Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng
+
+  * *Cloud adoption creates big welfare benefits but consumers still exhibit inertia in adoption new product. Both consumer surplus and provider revenue would be improved significantly if consumers face lower adoption cost.*
