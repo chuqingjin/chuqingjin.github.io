@@ -34,4 +34,4 @@ I am a PhD Candidate in Economics at Boston University. My research falls at the
 
 * Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng
 
-  * *Cloud adoption creates big welfare benefits but consumers still exhibit inertia in adoption new product. Both consumer surplus and provider revenue would be improved significantly if consumers face lower adoption cost.*
+  * *Cloud adoption creates big welfare benefits but consumers still exhibit inertia in adoption of new product. Both consumer surplus and provider revenue would be improved significantly if consumers face lower adoption cost.*
