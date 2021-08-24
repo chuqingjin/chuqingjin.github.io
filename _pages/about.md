@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at Boston University. My research falls at the intersection of industrial organization and applied econometrics. I create models to help understand the incentives for competition in different industries such as finance and public cloud. In particular, I am interested in models that build on deep institutional knowledge and yield empirical findings to guide policy. For example, in the financial industry, I use micro-data to disentangle analysts’ incentives for information provision and derive implications for competition policies.
+I am a PhD Candidate in Economics at Boston University and I will be joining Tepper School of Business at Carnegie Mellon University as a post-doc in Fall 2022. My research falls at the intersection of industrial organization and applied econometrics. I create models to help understand the incentives for competition in different industries such as finance and public cloud. In particular, I am interested in models that build on deep institutional knowledge and yield empirical findings to guide policy. For example, in the financial industry, I use micro-data to disentangle analysts’ incentives for information provision and derive implications for competition policies. 
 
 
 
