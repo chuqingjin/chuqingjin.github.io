@@ -16,9 +16,10 @@ I am a PhD Candidate in Economics at Boston University. My research falls at the
 
 # News
 
-* Feb. 2021: I presented the paper on security analyst competition in at Singapore Management University.
-* Jan. 2021: I presented the papers on security analyst competition and cloud welfare at Nanyang Technological University. 
-* Nov. 2020: I presented our paper on cloud welfare in the Digital Stars Seminar Series at Zhejiang University.
+* Aug. 2021: My paper on security analyst competition was selected as a finalist for Young Economists' Essay Award (YEEA) at EARIE 2021! 
+* Feb. 2021: Presented the paper on security analyst competition in at Singapore Management University.
+* Jan. 2021: Presented the papers on security analyst competition and cloud welfare at Nanyang Technological University. 
+* Nov. 2020: Presented our paper on cloud welfare in the Digital Stars Seminar Series at Zhejiang University.
 
 <br>
 
