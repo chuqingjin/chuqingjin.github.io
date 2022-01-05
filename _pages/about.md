@@ -35,5 +35,5 @@ I am a PhD Candidate in Economics at Boston University. I will be a post-doc in 
 
 * Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng
 
-  * *Cloud adoption creates big welfare benefits, particularly for smaller firms. However, it also induces consumers stickiness on existing product, which leads to sub-optimal product choices for all firms and reduces welfare from cloud adoption. Introductory discounts incentivizing firms to try new products and improve both consumer welfare and provider revenue.*
+  * *Cloud adoption creates big welfare benefits, particularly for smaller firms. However, it also induces consumers stickiness on existing product, which leads to sub-optimal product choices for all firms and reduces welfare from cloud adoption. Introductory discounts, incentivizing firms to try new products, can improve both consumer welfare and provider revenue.*
 
