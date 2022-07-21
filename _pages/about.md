@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -16,16 +16,17 @@ I will be a post-doc in the Tepper School of Business at Carnegie Mellon Univers
 
 # News
 
-* Aug. 2021: My paper on security analyst competition was selected as a finalist for Young Economists' Essay Award (YEEA) at EARIE 2021! 
+* Aug. 2021: My paper on security analyst competition was selected as a finalist for Young Economists' Essay Award (YEEA) at EARIE 2021!
 * Feb. 2021: Presented the paper on security analyst competition in at Singapore Management University.
-* Jan. 2021: Presented the papers on security analyst competition and cloud welfare at Nanyang Technological University. 
+* Jan. 2021: Presented the papers on security analyst competition and cloud welfare at Nanyang Technological University.
 * Nov. 2020: Presented our paper on cloud welfare in the Digital Stars Seminar Series at Zhejiang University.
 
 <br>
 
 # Working papers
 
-* **Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market** *New Draft Coming Soon*
+* **Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**     
+*New Draft Coming Soon*
 
   * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while the distortionary effect is still present, resulting in more accurate but more dispersed forecasts across analysts. It is optimal to have moderate competition between the covering analysts to both improve aggregate information and contain the distortionary effect.*
 
@@ -33,7 +34,7 @@ I will be a post-doc in the Tepper School of Business at Carnegie Mellon Univers
 
     ![discipline](/images/discipline.png)
 
-* **Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng** *Under Review*
+* **Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng**     
+*Under Review*
 
   * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
-
