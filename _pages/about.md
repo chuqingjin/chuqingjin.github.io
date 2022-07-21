@@ -34,7 +34,7 @@ I will be a post-doc in the Tepper School of Business at Carnegie Mellon Univers
 
     ![discipline](/images/discipline.png)
 
-* **Sticky Consumers and Cloud Welfare, joint with Peichun Wang and Sida Peng**     
+* **Sticky Consumers and Cloud Welfare**, joint with Peichun Wang and Sida Peng     
 *Under Review*
 
   * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
