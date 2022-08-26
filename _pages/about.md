@@ -25,11 +25,10 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
 
-</details>
-
 <br>
 ![distortion](/images/distortion.png)
 ![discipline](/images/discipline.png)
+</details>
 
 <details>
 <summary markdown='span'>
