@@ -17,8 +17,12 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <details>
 <summary>**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**      
 [*New Draft Coming Soon*]           
-**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**         </summary>
+**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**         </summary
+
+<br>
+
 *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
+
 </details>
 
 ![distortion](/images/distortion.png)
@@ -29,5 +33,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <summary>**Sticky Consumers and Cloud Welfare**,    
 with Peichun Wang and Sida Peng      
 [*Under Review*]    </summary>      
+
 *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
+
 </details>
