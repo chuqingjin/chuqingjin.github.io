@@ -17,21 +17,17 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <details>
 <summary markdown='span'>
 **Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**      
-[*New Draft Coming Soon*]           
+&emsp;&emsp;[*New Draft Coming Soon*]           
 <span style="color:coral">
-**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**
+&emsp;&emsp;**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**
 </span>         
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
-
-<br>
-
-<img src="/images/distortion.png" width="500" />
-
-<img src="/images/discipline.png" width="500" />
-
 </details>
+<img src="/images/distortion.png" class = "center" width="600" />
+
+<img src="/images/discipline.png" class = "center" width="600" />
 
 <br>
 <details>
