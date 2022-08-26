@@ -26,13 +26,17 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
 
 <br>
-<img src="/images/distortion.png" width="200" />
-<img src="/images/discipline.png" width="200" />
+
+<img src="/images/distortion.png" width="500" />
+
+<img src="/images/discipline.png" width="500" />
+
 </details>
 
+<br>
 <details>
 <summary markdown='span'>
-**Sticky Consumers and Cloud Welfare**,    
+**Sticky Consumers and Cloud Welfare**    
 with Peichun Wang and Sida Peng      
 [*Under Review*]    
 </summary>      
