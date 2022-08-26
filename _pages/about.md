@@ -27,8 +27,8 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 </details>
 
+<br>
 ![distortion](/images/distortion.png)
-
 ![discipline](/images/discipline.png)
 
 <details>
