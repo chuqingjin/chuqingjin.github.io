@@ -17,9 +17,9 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <details>
 <summary markdown='span'>
 **Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**      
-&emsp;&emsp;[*New Draft Coming Soon*]           
+&emsp;[*New Draft Coming Soon*]           
 <span style="color:coral">
-&emsp;&emsp;**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**
+&emsp;**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**
 </span>         
 </summary>
 
@@ -33,8 +33,8 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <details>
 <summary markdown='span'>
 **Sticky Consumers and Cloud Welfare**    
-with Peichun Wang and Sida Peng      
-[*Under Review*]    
+&emsp;with Peichun Wang and Sida Peng      
+&emsp;[*Under Review*]    
 </summary>      
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
