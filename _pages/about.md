@@ -30,7 +30,6 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 <img src="/images/discipline.png" class = "center" width="600" />
 
-<br>
 <details>
 <summary markdown='span'>
 **Sticky Consumers and Cloud Welfare**    
