@@ -12,7 +12,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 <br>
 
-# Working papers
+# Working Papers
 
 <details>
 <summary markdown='span'>
