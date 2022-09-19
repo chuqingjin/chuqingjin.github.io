@@ -18,6 +18,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <summary markdown='span'>
 [**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**](/files/analyst.pdf)  [*Job Market Paper*]           
 <span style="color:coral">
+&emsp;[[Draft]](/files/analyst.pdf)     
 &emsp;**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**
 </span>    
 &emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU Economics, CMU Tepper (scheduled)         
@@ -35,8 +36,9 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia.pdf)   [*Under Review*]     
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia.pdf)   [*Under Review*]         
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
+&emsp;[[Draft]](/files/cloud_inertia.pdf)     
 &emsp;**Talks:** ZJU, NTU, BU Economics
 </summary>      
 
