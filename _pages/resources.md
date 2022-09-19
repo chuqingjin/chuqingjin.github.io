@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /resources.html
 ---
-Here are some resources that helped me tremendously (inspired by [Javier Donna's website](https://www.jdonna.org/resources))
+Here are some resources that helped me tremendously (inspired by [Javier Donna](https://www.jdonna.org/resources))
 # Computation
 * **Logit demand**
  * Kenneth Train's [codes on mixed logit](https://eml.berkeley.edu/~train/software.html)
@@ -28,11 +28,11 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna's
 
 
 
-
 # Notes
 * Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html)
 * Scott Cunningham's [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
 * Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
+
 
 
 # My go-to R packages
