@@ -38,7 +38,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
 &emsp;**Talks:** ZJU, NTU, BU Economics
 </summary>      
-
+<br/>
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
 
 <img src="/images/rd_cloud_inertia.png" class = "center" width = "600" />
@@ -54,6 +54,7 @@ Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from
 &emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
 </summary>
 </details>
+<br/>
 
 <details>
 <summary markdown='span'>
@@ -61,17 +62,18 @@ Stock Exchange Competition: Fragmentation and Routing Delays
 &emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
 </summary>
 </details>
+<br/>
 
 <details>
 <summary markdown='span'>
 The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market   
 </summary>
 </details>
-<br>
+<br/>
 
 <details>
 <summary markdown='span'>
 Non-stationary Demand Shocks in Dynamic Games: the Cement Industry in China, 1999-2011   
 </summary>
 </details>
-<br>
+<br/>
