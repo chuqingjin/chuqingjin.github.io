@@ -1,5 +1,5 @@
 ---
-permalink: /teaching/teaching_evaluations
+permalink: /teaching_evaluations
 title: "Selected Teaching Evaluations"
 author_profile: true
 ---
