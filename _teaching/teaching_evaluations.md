@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/teaching_evaluations
 title: "Selected Teaching Evaluations"
-collection: teaching
 author_profile: true
 ---
 * "Well prepared for class."

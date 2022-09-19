@@ -6,7 +6,6 @@ redirect_from:
   - /teaching.html
 ---
 
-# Teaching Experience
 ## Undergraduate Statistics
 Teaching Assistant, School of Physical and Mathematical Sciences, Nanyang Technological University, Spring 2015    
 *Responsibility:* review the lecture material and lead discussion of tutorial questions in seminar format     
