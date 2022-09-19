@@ -17,5 +17,5 @@ author_profile: true
 * "Very friendly and approachable. She is very enthusiastic during lessons and also provides us a good summary of what we need to know each tutorials which is very beneficial to especially the weaker students. Her explanations are clear and it is really interesting to attend her tutorials."    
 
 
-*Students' sweetest thank you notes (anonymized):*
+*Here are some of my students' sweetest thank you notes. Thank you for allowing me to share my passion!*
 <img src="/images/students_notes.png" class = "center" width = "600" />
