@@ -8,8 +8,8 @@ redirect_from:
 Here are some resources that helped me tremendously (inspired by [Javier Donna](https://www.jdonna.org/resources))
 # Computation
 * **Logit demand**
- * Kenneth Train's [codes on mixed logit](https://eml.berkeley.edu/~train/software.html)
- * Jason Blevin's post on [log sum of exponentials](https://jblevins.org/log/log-sum-exp) (what to do when my logit demand explodes?)
+  * Kenneth Train's [codes on mixed logit](https://eml.berkeley.edu/~train/software.html)
+  * Jason Blevin's post on [log sum of exponentials](https://jblevins.org/log/log-sum-exp) (what to do when my logit demand explodes?)
 * **Dynamic discrete choice**
   * Victor Aguirregabiria's [compilation of codes on dynamic discrete choice](https://sites.google.com/view/victoraguirregabiriaswebsite/computer-code)
   * Jaap H. Abbring and Tobias J. Klein's [notes and codes on dynamic discrete choice](https://jabbring.github.io/dynamic-discrete-choice/dynamicDiscreteChoice.m.html)
