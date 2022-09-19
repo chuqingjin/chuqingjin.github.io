@@ -36,7 +36,7 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna](
 
 
 # My go-to R packages
-* Output LaTeX Tables: ``stargazer``, ``texreg`` (supports fixest), ``xtable``
+* Output LaTeX tables: ``stargazer``, ``texreg`` (supports fixest), ``xtable``
 * Fixed effects for linear models: ``plm`` (at most 2-way, need ``clubSandwich`` for clustering, good for 1 fixed effect with many unique values), ``lfe`` (clustering, fast)
 * Fixed effects for non-linear models: ``fixest`` ([description](https://lrberge.github.io/fixest/)),  ``alpaca``
 * Data wrangling: ``dplyr``, ``broom`` (turn regression results into a table), ``fastDummies``
