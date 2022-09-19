@@ -50,11 +50,10 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 # Work-in-progress
 <details>
 <summary markdown='span'>
-Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market
+Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market    
 &emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
 </summary>
 </details>
-
 
 <details>
 <summary markdown='span'>
