@@ -31,7 +31,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 </details>
 
-<br>
+<p></p>
 
 <details>
 <summary markdown='span'>
@@ -55,7 +55,7 @@ Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from
 &emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
 </summary>
 </details>
-
+<p></p>
 
 <details>
 <summary markdown='span'>
@@ -63,7 +63,7 @@ Stock Exchange Competition: Fragmentation and Routing Delays
 &emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
 </summary>
 </details>
-&emsp;
+<p></p>
 
 <details>
 <summary markdown='span'>
