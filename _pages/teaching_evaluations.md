@@ -4,8 +4,6 @@ title: "Selected Teaching Evaluations"
 author_profile: true
 ---
 
-![Students' sweetest thank you notes (anonymized):](/images/students_notes.jpeg)    
-
 * "Well prepared for class."
 * "Able to understand her ideas well. Helps us summarise our learnings every week before tutorial begins."
 * "Passionate and responsible. Well prepared beforehand. Brief but important recap is given before"
@@ -17,3 +15,5 @@ author_profile: true
 * "Make time for student's consultation and provide detailed explanation during tutorials to enhance student's understanding of concept. Always gave overview of the concept taught for each tutorial."
 * "Clear explaination, the brief summary at the start of tutorial allow me to understand the topic better compared to the lectures."
 * "Very friendly and approachable. She is very enthusiastic during lessons and also provides us a good summary of what we need to know each tutorials which is very beneficial to especially the weaker students. Her explanations are clear and it is really interesting to attend her tutorials."
+* Students' sweetest thank you notes (anonymized):
+<img src="/images/students_notes.jpeg" class = "center" width = "400" />
