@@ -54,7 +54,7 @@ Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from
 &emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
 </summary>
 </details>
-<br/>
+&NewLine;
 
 <details>
 <summary markdown='span'>
