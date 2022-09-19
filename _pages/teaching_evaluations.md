@@ -4,7 +4,7 @@ title: "Selected Teaching Evaluations"
 author_profile: true
 ---
 
-![Students' sweetest thank you notes (anonymized):](/images/students_notes.ipeg)    
+![Students' sweetest thank you notes (anonymized):](/images/students_notes.jpeg)    
 
 * "Well prepared for class."
 * "Able to understand her ideas well. Helps us summarise our learnings every week before tutorial begins."
