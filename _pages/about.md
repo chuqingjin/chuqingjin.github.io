@@ -30,7 +30,8 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <img src="/images/discipline.png" class = "center" width="600" />
 
 </details>
-&nbsp;
+
+
 <details>
 <summary markdown='span'>
 [**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia.pdf)   [*Under Review*]     
@@ -47,38 +48,31 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 <br>
 
 # Work-in-progress
-* **Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market**    
-&emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)    
-* **Stock Exchange Competition: Fragmentation and Routing Delays**    
-&emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
-* **The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**   
-* **Non-stationary Demand Shocks in Dynamic Games: the Cement Industry in China, 1999-2011**  
 <details>
 <summary markdown='span'>
-**Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market**    
+Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market
 &emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
 </summary>
 </details>
-<br>
+
 
 <details>
 <summary markdown='span'>
-**Stock Exchange Competition: Fragmentation and Routing Delays**    
+Stock Exchange Competition: Fragmentation and Routing Delays  
 &emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
 </summary>
 </details>
-<br>
 
 <details>
 <summary markdown='span'>
-**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**    
+The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market   
 </summary>
 </details>
 <br>
 
 <details>
 <summary markdown='span'>
-**Non-stationary Demand Shocks in Dynamic Games: the Cement Industry in China, 1999-2011**    
+Non-stationary Demand Shocks in Dynamic Games: the Cement Industry in China, 1999-2011   
 </summary>
 </details>
 <br>
