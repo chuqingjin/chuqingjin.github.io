@@ -47,6 +47,8 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 </details>
 
+<br>
+<br>
 
 # Work-in-progress
 
@@ -56,6 +58,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 &emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
 </summary>
 </details>
+<br>
 
 <details>
 <summary markdown='span'>
@@ -63,15 +66,18 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 &emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
 </summary>
 </details>
+<br>
 
 <details>
 <summary markdown='span'>
 **The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**    
 </summary>
 </details>
+<br>
 
 <details>
 <summary markdown='span'>
 **Non-stationary Demand Shocks in Dynamic Games: the Cement Industry in China, 1999-2011**    
 </summary>
 </details>
+<br>
