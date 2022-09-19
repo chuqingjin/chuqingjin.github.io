@@ -16,27 +16,35 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 <details>
 <summary markdown='span'>
-**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**      
-&emsp;[*New Draft Coming Soon*]           
+[**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**](/files/analyst.pdf)      
+&emsp;[*Job Market Paper*]           
 <span style="color:coral">
 &emsp;**Finalist for Young Economists' Essay Award (YEEA) at EARIE 2021**
-</span>         
+</span>    
+Talks: NTU, SMU, IIOC, EARIE, FMA, Questrom Finance BU, AFA Poster Session, BU, Tepper Finance CMU (scheduled)         
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
-</details>
 
 <img src="/images/distortion.png" class = "center" width="600" />
 
 <img src="/images/discipline.png" class = "center" width="600" />
 
+</details>
+
+
+
+
 <details>
 <summary markdown='span'>
-**Sticky Consumers and Cloud Welfare**    
-&emsp;with Peichun Wang and Sida Peng      
-&emsp;[*Under Review*]    
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia.pdf)      
+&emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
+&emsp;[*Under Review*]   
+Talks: ZJU, NTU, BU
 </summary>      
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
+
+<img src="rd_cloud_inertia.png" class = "center" width = "600" />
 
 </details>
