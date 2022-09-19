@@ -63,14 +63,14 @@ Stock Exchange Competition: Fragmentation and Routing Delays
 &emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
 </summary>
 </details>
-
+&emsp;
 
 <details>
 <summary markdown='span'>
 The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market   
 </summary>
 </details>
-<br/>
+<p></p>
 
 <details>
 <summary markdown='span'>
