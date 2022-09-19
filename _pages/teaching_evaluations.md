@@ -18,4 +18,4 @@ author_profile: true
 
 
 *Students' sweetest thank you notes (anonymized):*
-<img src="/images/students_notes.jpeg" class = "center" width = "600" />
+<img src="/images/students_notes.png" class = "center" width = "600" />
