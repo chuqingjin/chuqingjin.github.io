@@ -31,6 +31,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 
 </details>
 
+<br>
 
 <details>
 <summary markdown='span'>
@@ -38,7 +39,7 @@ I am a post-doc in the Tepper School of Business at Carnegie Mellon University. 
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
 &emsp;**Talks:** ZJU, NTU, BU Economics
 </summary>      
-<br/>
+
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
 
 <img src="/images/rd_cloud_inertia.png" class = "center" width = "600" />
