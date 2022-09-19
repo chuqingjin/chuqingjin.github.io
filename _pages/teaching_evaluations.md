@@ -3,6 +3,9 @@ permalink: /teaching_evaluations
 title: "Selected Teaching Evaluations"
 author_profile: true
 ---
+
+![Students' sweetest thank you notes (anonymized):](/images/students_notes.ipeg)    
+
 * "Well prepared for class."
 * "Able to understand her ideas well. Helps us summarise our learnings every week before tutorial begins."
 * "Passionate and responsible. Well prepared beforehand. Brief but important recap is given before"
