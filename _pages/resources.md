@@ -29,14 +29,14 @@ Here are some resources that helped me tremendously (inspired by [Javier Donna](
 
 
 # Notes
-* Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html)
+* Chris Conlon's [Panel Data Econometrics](https://chrisconlon.github.io/metrics.html) and [IO](https://chrisconlon.github.io/gradio.html)
 * Scott Cunningham's [Causal Inference: The Mixtape](https://mixtape.scunning.com/index.html)
 * Jonathan Levin's [notes on market design and IO](https://web.stanford.edu/~jdlevin/teaching.html)
 
 
 
 # My go-to R packages
-* Output LaTeX tables: ``stargazer``, ``texreg`` (supports fixest), ``xtable``
+* Output LaTeX tables: ``stargazer``, ``texreg`` (supports ``fixest``), ``xtable``
 * Fixed effects for linear models: ``plm`` (at most 2-way, need ``clubSandwich`` for clustering, good for 1 fixed effect with many unique values), ``lfe`` (clustering, fast)
 * Fixed effects for non-linear models: ``fixest`` ([description](https://lrberge.github.io/fixest/)),  ``alpaca``
-* Data wrangling: ``dplyr``, ``broom`` (turn regression results into a table), ``fastDummies``
+* Data wrangling: ``dplyr``, ``broom`` (turn regression results into a data frame), ``fastDummies``
