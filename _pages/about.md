@@ -23,7 +23,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 &emsp;[[Draft]](/files/analyst.pdf)     
 &emsp;**Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>    
-&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU Economics, CMU Tepper (scheduled)         
+&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom Finance, AFA (PhD Poster), BU Economics, CMU Tepper Finance (scheduled)         
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
