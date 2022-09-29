@@ -49,7 +49,14 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 <img src="/images/rd_cloud_inertia.png" class = "center" width = "600" />
 
 </details>
+<p></p>
 
+
+<details>
+<summary markdown='span'>
+The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market   
+</summary>
+</details>
 <br>
 
 # Work-in-progress
@@ -71,14 +78,7 @@ Stock Exchange Competition: Fragmentation and Routing Delays
 
 <details>
 <summary markdown='span'>
-The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market   
-</summary>
-</details>
-<p></p>
-
-<details>
-<summary markdown='span'>
-Non-stationary Demand Shocks in Dynamic Games
+Non-stationary Processes in Dynamic Games
 </summary>
 </details>
 <br/>
