@@ -55,9 +55,9 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 <details>
 <summary markdown='span'>
 [**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst.pdf)          
-</summary>
-&emsp;[[Draft]](/files/dynamic_analyst.pdf)   
+&emsp;[[Draft]](/files/dynamic_analyst.pdf)    
 &emsp;**Talks:** BU Economics
+</summary>
 </details>
 <br>
 
