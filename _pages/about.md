@@ -18,7 +18,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 
 <details>
 <summary markdown='span'>
-[**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**](/files/analyst.pdf)  [*Job Market Paper*]           
+[**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]           
 <span style="color:coral">
 &emsp;[[Draft]](/files/analyst_ChuqingJin_JMP.pdf)     
 &emsp;**Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
@@ -38,7 +38,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia.pdf)   [*Under Review*]         
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Under Review*]         
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
 &emsp;[[Draft]](/files/cloud_inertia_ChuqingJin.pdf)     
 &emsp;**Talks:** ZJU, NTU, BU Economics
@@ -54,7 +54,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 
 <details>
 <summary markdown='span'>
-[**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst.pdf)          
+[**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst_ChuqingJin.pdf)          
 &emsp;[[Draft]](/files/dynamic_analyst_ChuqingJin.pdf)    
 &emsp;**Talks:** BU Economics
 </summary>
