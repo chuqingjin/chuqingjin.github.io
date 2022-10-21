@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc in the Tepper School of Business at Carnegie Mellon University. I recently completed my PhD in Economics at Boston University. My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies. In particular, I create novel models to help understand how information frictions are generated in finance and technology, as well as how they affect competition and welfare. My job market paper uses financial analysts’ forecast data to disentangle their incentives for information provision, and derive policy implications for improving information quality in the financial market.   
+I am a post-doc in the Tepper School of Business at Carnegie Mellon University. I recently completed my PhD in Economics at Boston University. My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies. In particular, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. My job market paper uses financial analysts’ forecast data to disentangle their incentives for information provision, and derive policy implications for improving information quality in the financial market.   
 <p></p>
 I am on the 2022/2023 Job Market and will be available for interviews.
 
