@@ -15,5 +15,5 @@ redirect_from:
 
 
 ## Other Relevant Experiences
-* Organizer and founder, Empirical IO Reading Group at Boston University, 2018-2019
+* Organizer, Empirical IO Reading Group at Boston University, 2018-2019
 * Mentor, RA-Mentor Program, Institute for Economic Development, 2022
