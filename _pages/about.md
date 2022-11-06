@@ -18,7 +18,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 
 <details>
 <summary markdown='span'>
-[**Does Competition Between Experts Improve Information Quality? Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]           
+[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]           
 <span style="color:coral">
 &emsp;[[Draft]](/files/analyst_ChuqingJin_JMP.pdf)     
 &emsp;**Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
