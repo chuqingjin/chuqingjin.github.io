@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc in the [Tepper School of Business at Carnegie Mellon University](https://www.cmu.edu/tepper/index.html). I will be joining [Toulouse School of Economics](https://www.tse-fr.eu/) as an Assistant Professor in Fall 2023. I recently completed my PhD in [Economics at Boston University](https://www.bu.edu/econ/). My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies and market designs. In my current research, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. My job market paper uses financial analysts’ forecast data to disentangle their incentives for information provision, and derive policy implications for improving information quality in the financial market.   
+I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.eu/). My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies and market designs. In my current research, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. I completed my PhD in [Economics at Boston University](https://www.bu.edu/econ/). Before joining TSE, I was a postdoctoral fellow at [Tepper School of Business at Carnegie Mellon University](https://www.cmu.edu/tepper/index.html).
 <p></p>
 
 
