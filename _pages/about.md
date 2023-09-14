@@ -38,10 +38,10 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*New draft coming soon*]         
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]         
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
 &emsp;[[Draft]](/files/cloud_inertia_ChuqingJin.pdf)     
-&emsp;**Talks:** ZJU, NTU, BU Economics
+&emsp;**Talks:** ZJU, NTU, BU Economics, Microsoft (by coauthor), Jinan-SHUFE IO (by coauthor), IIOC 2023
 </summary>      
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
