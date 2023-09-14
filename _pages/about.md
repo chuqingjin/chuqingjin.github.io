@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doc in the Tepper School of Business at Carnegie Mellon University. I recently completed my PhD in Economics at Boston University. My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies and market designs. In my current research, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. My job market paper uses financial analysts’ forecast data to disentangle their incentives for information provision, and derive policy implications for improving information quality in the financial market.   
+I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.eu/). My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies and market designs. In my current research, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. I completed my PhD in [Economics at Boston University](https://www.bu.edu/econ/). Before joining TSE, I was a postdoctoral fellow at [Tepper School of Business at Carnegie Mellon University](https://www.cmu.edu/tepper/index.html).
 <p></p>
-I am on the 2022/2023 Job Market and will be available for interviews.
+
 
 <br>
 
@@ -23,7 +23,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 &emsp;[[Draft]](/files/analyst_ChuqingJin_JMP.pdf)     
 &emsp;**Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>    
-&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom Finance, AFA (PhD Poster), BU Economics, CMU Tepper Finance (scheduled)         
+&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, Bank of Canada         
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
@@ -38,7 +38,7 @@ I am on the 2022/2023 Job Market and will be available for interviews.
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Under Review*]         
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*New draft coming soon*]         
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
 &emsp;[[Draft]](/files/cloud_inertia_ChuqingJin.pdf)     
 &emsp;**Talks:** ZJU, NTU, BU Economics
