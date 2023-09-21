@@ -23,7 +23,7 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 &emsp;[[Draft]](/files/analyst_ChuqingJin_JMP.pdf)     
 &emsp;**Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>    
-&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, Bank of Canada         
+&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper         
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
@@ -62,6 +62,14 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 <br>
 
 # Work-in-progress
+<details>
+<summary markdown='span'>
+Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market  
+&emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
+</summary>
+</details>
+<p></p>
+
 <details>
 <summary markdown='span'>
 Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market   
