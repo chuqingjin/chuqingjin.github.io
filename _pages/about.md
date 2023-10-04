@@ -61,9 +61,7 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 
 * *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of ***inertia***, ***search frictions***, and ***preference heterogeneity***. We find that the average expense ratio paid by retail investors are roughly 45% higher due to search frictions and 40% due to inertia than the friction-less baseline. Removing inertia has a small impact when search frictions are high.*
 
-<img src="/images/cf_cdf_no_inertia.png" class = "center" width = "600" />
-
-<img src="/images/cf_cdf_no_search.png" class = "center" width = "600" />
+<img src="/images/cf_cdf_no_inertia.png" class = "center" width = "300" /><img src="/images/cf_cdf_no_search.png" class = "center" width = "300" />
 
 </details>
 
