@@ -41,7 +41,7 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 [**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]         
 &emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
 &emsp;[[Draft]](/files/cloud_inertia_ChuqingJin.pdf)     
-&emsp;**Talks:** ZJU, NTU, BU Economics, Microsoft (by coauthor), Jinan-SHUFE IO (by coauthor), IIOC    
+&emsp;**Talks:** ZJU, NTU, BU Economics, Microsoft, Jinan-SHUFE IO, IIOC          
 </summary>      
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
@@ -49,6 +49,24 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 <img src="/images/rd_cloud_inertia.png" class = "center" width = "600" />
 
 </details>
+<p></p>
+
+<details>
+<summary markdown='span'>
+[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)        
+&emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
+&emsp;[[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)     
+&emsp;**Talks:** Boston Conference on Markets and Competition, BU, CMU, LSE, Montreal Summer Conference on IO, Northwestern, SITE, Wisconsin IO/Finance Reading Group       
+</summary>
+
+* *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of ***inertia***, ***search frictions***, and ***preference heterogeneity***. We find that the average expense ratio paid by retail investors are roughly 45% higher due to search frictions and 40% due to inertia than the friction-less baseline. Removing inertia has a small impact when search frictions are high.*
+
+<img src="/images/cf_cdf_no_inertia.png" class = "center" width = "600" />
+
+<img src="/images/cf_cdf_no_search.png" class = "center" width = "600" />
+
+</details>
+
 <p></p>
 
 
@@ -62,13 +80,6 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 <br>
 
 # Work-in-progress
-<details>
-<summary markdown='span'>
-Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market  
-&emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
-</summary>
-</details>
-<p></p>
 
 <details>
 <summary markdown='span'>
