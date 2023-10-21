@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.eu/). My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies and market designs. In my current research, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. I completed my PhD in [Economics at Boston University](https://www.bu.edu/econ/). Before joining TSE, I was a postdoctoral fellow at [Tepper School of Business at Carnegie Mellon University](https://www.cmu.edu/tepper/index.html).
 
-I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.eu/). My research falls at the intersection of industrial organization and finance. I apply a wide range of empirical methods, with a focus on using structural estimation to understand welfare implications of policies and market designs. In my current research, I create novel models to help understand how information frictions are generated in finance and technology industries, as well as how they affect competition and welfare. I completed my PhD in [Economics at Boston University](https://www.bu.edu/econ/). Before joining TSE, I was a postdoctoral fellow at [Tepper School of Business at Carnegie Mellon University](https://www.cmu.edu/tepper/index.html).
 <p></p>
-
 
 <br>
 
@@ -18,12 +17,12 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 
 <details>
 <summary markdown='span'>
-[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]           
+[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]         
 <span style="color:coral">
-&emsp;[[Draft]](/files/analyst_ChuqingJin_JMP.pdf)     
-&emsp;**Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
-</span>    
-&emsp;**Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper         
+ [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
+ **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
+</span>  
+ **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper       
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
@@ -38,11 +37,11 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]         
-&emsp;with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)      
-&emsp;[[Draft]](/files/cloud_inertia_ChuqingJin.pdf)     
-&emsp;**Talks:** ZJU, NTU, BU Economics, IIOC; by coauthor: Microsoft, Jinan-SHUFE IO            
-</summary>      
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]       
+ with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)    
+ [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
+ **Talks:** ZJU, NTU, BU Economics, IIOC; by coauthor: Microsoft, Jinan-SHUFE IO          
+</summary>
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
 
@@ -53,10 +52,10 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 
 <details>
 <summary markdown='span'>
-[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)    [*New*]       
-&emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
-&emsp;[[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)     
-&emsp;**Talks:** SITE; by coauthor: Boston Conference on Markets and Competition, BU, CMU, LSE, Montreal Summer Conference on IO, Northwestern, Wisconsin IO/Finance Reading Group       
+[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)    [*New*]     
+ with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
+ [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)   
+ **Talks:** SITE; by coauthor: Boston Conference on Markets and Competition, BU, CMU, LSE, Montreal Summer Conference on IO, Northwestern, Wisconsin IO/Finance Reading Group     
 </summary>
 
 * *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of **inertia**, **search frictions**, and **preference heterogeneity**. We find that the average expense ratio paid by retail investors are roughly 45% higher due to search frictions and 40% due to inertia than the friction-less baseline. Removing inertia has a small impact when search frictions are high.*
@@ -67,12 +66,11 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 
 <p></p>
 
-
 <details>
 <summary markdown='span'>
-[**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst_ChuqingJin.pdf)          
-&emsp;[[Draft]](/files/dynamic_analyst_ChuqingJin.pdf)    
-&emsp;**Talks:** BU Economics
+[**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst_ChuqingJin.pdf)        
+ [[Draft]](/files/dynamic_analyst_ChuqingJin.pdf)  
+ **Talks:** BU Economics
 </summary>
 </details>
 <br>
@@ -82,7 +80,7 @@ I am a Assistant Professor at [Toulouse School of Economics](https://www.tse-fr.
 <details>
 <summary markdown='span'>
 Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market   
-&emsp;with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)     
+ with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
 </summary>
 </details>
 <p></p>
@@ -90,7 +88,7 @@ Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from
 <details>
 <summary markdown='span'>
 Stock Exchange Competition: Fragmentation and Routing Delays  
-&emsp;with [Mark Rysman](https://sites.bu.edu/mrysman/)
+ with [Mark Rysman](https://sites.bu.edu/mrysman/)
 </summary>
 </details>
 <p></p>
