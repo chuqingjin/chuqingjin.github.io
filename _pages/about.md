@@ -17,12 +17,12 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]         
+[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]   
 <span style="color:coral">
  [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
  **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>  
- **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University (upcoming)
+ **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University (upcoming), CEPR-JIO (upcoming)
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
@@ -37,10 +37,10 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]       
- with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)    
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]     
+ with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
- **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith (upcoming); by coauthor: Microsoft, Jinan-SHUFE IO    
+ **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith (upcoming); by coauthor: Microsoft, Jinan-SHUFE IO  
 </summary>
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
@@ -52,7 +52,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)    [*New*]     
+[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)    [*New*]   
  with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
  [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)   
  **Talks:** SITE, TSE, SMU, IIOC, WFA (upcoming), Econometric Society European Meeting (upcoming); by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, the University of Florida, and the University of Wisconsin IO/Finance Reading Group   
@@ -68,7 +68,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst_ChuqingJin.pdf)        
+[**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst_ChuqingJin.pdf)      
  [[Draft]](/files/dynamic_analyst_ChuqingJin.pdf)  
  **Talks:** BU
 </summary>
