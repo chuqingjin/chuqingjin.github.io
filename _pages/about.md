@@ -22,7 +22,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
  [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
  **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>  
- **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper       
+ **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University (upcoming)
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
@@ -40,7 +40,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 [**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]       
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)    
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
- **Talks:** ZJU, NTU, BU Economics, IIOC; by coauthor: Microsoft, Jinan-SHUFE IO          
+ **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith (upcoming); by coauthor: Microsoft, Jinan-SHUFE IO    
 </summary>
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
@@ -55,7 +55,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 [**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)    [*New*]     
  with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
  [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_20231004.pdf)   
- **Talks:** SITE; by coauthor: Boston Conference on Markets and Competition, BU, CMU, LSE, Montreal Summer Conference on IO, Northwestern, Wisconsin IO/Finance Reading Group     
+ **Talks:** SITE, TSE, SMU, IIOC, WFA (upcoming), Econometric Society European Meeting (upcoming); by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, the University of Florida, and the University of Wisconsin IO/Finance Reading Group   
 </summary>
 
 * *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of **inertia**, **search frictions**, and **preference heterogeneity**. We find that the average expense ratio paid by retail investors are roughly 45% higher due to search frictions and 40% due to inertia than the friction-less baseline. Removing inertia has a small impact when search frictions are high.*
@@ -70,7 +70,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 <summary markdown='span'>
 [**The Dynamic Competitive Effect of Reputation Acquisition: Evidence from the Financial Analyst Market**](/files/dynamic_analyst_ChuqingJin.pdf)        
  [[Draft]](/files/dynamic_analyst_ChuqingJin.pdf)  
- **Talks:** BU Economics
+ **Talks:** BU
 </summary>
 </details>
 <br>
