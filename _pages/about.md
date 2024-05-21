@@ -22,7 +22,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
  [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
  **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>  
- **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University (upcoming), CEPR-JIO (upcoming)
+ **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University, CEPR-JIO (upcoming)
 </summary>
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
