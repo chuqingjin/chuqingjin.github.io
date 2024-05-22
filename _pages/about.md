@@ -37,7 +37,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Submitted*]   
+[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*Under Revision*]   
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
  **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith (upcoming); by coauthor: Microsoft, Jinan-SHUFE IO  
