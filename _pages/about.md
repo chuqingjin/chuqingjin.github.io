@@ -17,7 +17,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Job Market Paper*]   
+[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*Submitted*]   
 <span style="color:coral">
  [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
  **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
