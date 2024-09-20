@@ -5,15 +5,22 @@ author_profile: true
 redirect_from:
   - /teaching.html
 ---
+## Teaching
 
-## Undergraduate Statistics
-* Teaching Assistant, Spring 2015
-* School of Physical and Mathematical Sciences, Nanyang Technological University   
-* **Responsibility:** review the lecture material and lead discussion of tutorial questions in seminar format     
-* **Teaching Score:** **92** for class 1, **88.57** for class 2 (school mean: 83.83, school sd: 9.38)       
-* [Selected teaching evaluations](/teaching_evaluations) (complete evaluations available upon request)
+### Toulouse School of Economics
 
+* Master Topics in Applied Industrial Organization, Spring 2024 ([Syllabus](/files/2024_io_finance_syllabus_cj.pdf))
+* PhD Empirical Industrial Organization, Spring 2024 ([Syllabus](/files/2024_phd_io_syllabus_cj.pdf))
+
+### Carnegie Mellon University
+
+* Undergraduate Accounting, Spring 2023
+
+## Teaching Assistant
+
+* Undergraduate Statistics, Spring 2015, Nanyang Technological University
 
 ## Other Relevant Experiences
+
 * Organizer, Empirical IO Reading Group at Boston University, 2018-2019
 * Mentor, RA-Mentor Program, Institute for Economic Development, 2022
