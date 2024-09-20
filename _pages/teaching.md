@@ -9,7 +9,7 @@ redirect_from:
 
 ### Toulouse School of Economics
 
-* Master Topics in Applied Industrial Organization, Spring 2024 ([Syllabus](/files/2024_io_finance_syllabus_cj.pdf)) --- This course focuses on research in the intersection of industrial organization and finance.
+* Master Topics in Applied Industrial Organization, Spring 2024 ([Syllabus](/files/2024_io_finance_syllabus_cj.pdf)) - This course focuses on the industrial organization of financial markets.
 * PhD Empirical Industrial Organization, Spring 2024 ([Syllabus](/files/2024_phd_io_syllabus_cj.pdf))
 
 ### Carnegie Mellon University
