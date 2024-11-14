@@ -60,7 +60,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 * *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of **inertia**, **information frictions**, and **preference heterogeneity**. We find inertia is high, with only 1-3% of household updating their portfolio each month. Although inertia is high, its impact on the investment behavior of households is limited because investors struggle to optimize due to high information frictions. The introduction of ETFs lowered expense ratios through both the cost advantage and increased competition, but demand-side frictions substantially dampened its effect.*
 
-<img src="/images/cf_sequential_decomp_retail_min.pdf" class = "center" width = "600" />
+<img src="/images/cf_sequential_decomp_retail_min.png" class = "center" width = "600" />
 
 </details>
 
