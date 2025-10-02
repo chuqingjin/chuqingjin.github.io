@@ -74,28 +74,3 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 </summary>
 </details>
 <br>
-
-# Work-in-progress
-
-<details>
-<summary markdown='span'>
-Price Dispersion and Product Proliferation Under Consumer Inertia: Evidence from the ETF Market   
- with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
-</summary>
-</details>
-<p></p>
-
-<details>
-<summary markdown='span'>
-Stock Exchange Competition: Fragmentation and Routing Delays  
- with [Mark Rysman](https://sites.bu.edu/mrysman/)
-</summary>
-</details>
-<p></p>
-
-<details>
-<summary markdown='span'>
-Non-stationary Processes in Dynamic Games
-</summary>
-</details>
-<br/>
