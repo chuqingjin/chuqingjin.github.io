@@ -15,15 +15,13 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 # Working Papers
 
-<details>
 <summary markdown='span'>
 [**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*New Draft Coming Soon*]   
 <span style="color:coral">
  [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
  **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>  
- **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University, CEPR-JIE, Chicago Household Finance Conference, Econometric Society European Winter Meeting, HEC Paris, NHH (Upcoming), Econometric Society World Congress (Upcoming)
-</summary>
+ **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University, CEPR-JIE, Chicago Household Finance Conference, Econometric Society European Winter Meeting, HEC Paris, NHH, Econometric Society World Congress
 
 * *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
 
@@ -40,7 +38,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 [**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*New Draft Coming Soon*]   
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
- **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith, Toulouse Digital Economics Conference; by coauthor: Microsoft, Jinan-SHUFE IO  
+ **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith, Toulouse Digital Economics Conference; by coauthor: Microsoft, Jinan-SHUFE IO, University of Hong Kong, City University of Hong Kong, Hong Kong University of Science and Technology 
 </summary>
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
@@ -52,13 +50,15 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202410.pdf)    [*New Draft Coming Soon*]   
+[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202512.pdf)    [*Submitted*]   
  with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
  [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202410.pdf)   
- **Talks:** SITE, TSE, SMU, IIOC, WFA, Econometric Society European Meeting, Chicago Booth Finance; by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, the University of Florida, and the University of Wisconsin IO/Finance Reading Group   
+ **Talks:** SITE, TSE, SMU, IIOC, WFA, Econometric Society European Meeting, Chicago Booth Finance, UCI, UCR; by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, the University of Florida, the University of Georgia, the University of Wisconsin IO/Finance Reading Group.
+
+
 </summary>
 
-* *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of **inertia**, **information frictions**, and **preference heterogeneity**. We find inertia is high, with only 1-3% of household updating their portfolio each month. Although inertia is high, its impact on the investment behavior of households is limited because investors struggle to optimize due to high information frictions. The introduction of ETFs lowered expense ratios through both the cost advantage and increased competition, but demand-side frictions substantially dampened its effect.*
+* *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of **inertia**, **information frictions**, and **preference heterogeneity**. We find inertia is high, with only 3-5% of household updating their portfolio each month. Although inertia is high, its impact on the investment behavior of households is limited because investors struggle to optimize due to high information frictions. The introduction of ETFs lowered expense ratios through both the cost advantage and increased competition, but demand-side frictions substantially dampened its effect.*
 
 <img src="/images/cf_sequential_decomp_retail_min.png" class = "center" width = "600" />
 
