@@ -54,7 +54,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 <summary markdown='span'>
 [**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202512.pdf)    [*Submitted*]   
  with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
- [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202410.pdf)   
+ [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202512.pdf)   
  **Talks:** SITE, TSE, SMU, IIOC, WFA, Econometric Society European Meeting, Chicago Booth Finance, UCI, UCR; by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, the University of Florida, the University of Georgia, the University of Wisconsin IO/Finance Reading Group.
 </summary>
 
