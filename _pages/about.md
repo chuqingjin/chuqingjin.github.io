@@ -39,7 +39,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 [**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*New Draft Coming Soon*]   
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
- **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith, Toulouse Digital Economics Conference; by coauthor: Microsoft, Jinan-SHUFE IO, University of Hong Kong, City University of Hong Kong, Hong Kong University of Science and Technology 
+ **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith, Toulouse Digital Economics Conference, Paris Dauphine Digital Regulation Workshop; by coauthor: Microsoft, Jinan-SHUFE IO, University of Hong Kong, City University of Hong Kong, Hong Kong University of Science and Technology 
 </summary>
 
 * *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
@@ -63,6 +63,19 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 <img src="/images/cf_sequential_decomp_retail.png" class = "center" width = "600" />
 
 </details>
+
+<p></p>
+
+<details>
+<summary markdown='span'>
+**Why Multimarket Banks Exist: A Quantitative Theory With Demand Complementarity** [*Draft Available Upon Request*] 
+ **Talks:** TSE, UIC Finance Conference (upcoming)
+</summary>
+
+* *Consumers prefer to obtain multiple financial products from the same bank. We first provide causal evidence of this demand complementarity in banking using a shift-share design exploiting local variation in Conforming Loan Limits. Then, we estimate a dynamic oligopoly model to study its implications for banks that operate in multiple markets, quantifying impacts on bank synergies, pricing strategies, and the interconnection of their services across markets.*
+
+</details>
+<br>
 
 <p></p>
 
