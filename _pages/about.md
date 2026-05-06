@@ -68,8 +68,9 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-**Why Multimarket Banks Exist: A Quantitative Theory With Demand Complementarity** [*Draft Available Upon Request*]    
- **Talks:** TSE, UIC Finance Conference (upcoming)
+**Why Multimarket Banks Exist: A Quantitative Theory With Demand Complementarity** [*Draft Available Upon Request*]      
+ with [Jack Liebersohn](https://www.jackliebersohn.com/home) and [Yufeng Wu](https://sites.google.com/site/yufengwufinance/home)     
+ **Talks:** TSE, UIC Finance Conference (upcoming).    
 </summary>
 
 * *Consumers prefer to obtain multiple financial products from the same bank. We first provide causal evidence of this demand complementarity in banking using a shift-share design exploiting local variation in Conforming Loan Limits. Then, we estimate a dynamic oligopoly model to study its implications for banks that operate in multiple markets, quantifying impacts on bank synergies, pricing strategies, and the interconnection of their services across markets.*
