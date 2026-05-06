@@ -68,7 +68,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-**Why Multimarket Banks Exist: A Quantitative Theory With Demand Complementarity** [*Draft Available Upon Request*] 
+**Why Multimarket Banks Exist: A Quantitative Theory With Demand Complementarity** [*Draft Available Upon Request*]    
  **Talks:** TSE, UIC Finance Conference (upcoming)
 </summary>
 
