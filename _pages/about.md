@@ -36,7 +36,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Firm Inertia in the Public Cloud**](/files/cloud_inertia_ChuqingJin.pdf)   [*New Draft Submitted*]<br>
+[**Firm Inertia in the Public Cloud**](/files/cloud_inertia_ChuqingJin.pdf)   [*Latest draft: July 2026*]<br>
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
  Previously circulated as *Sticky Consumers and Cloud Welfare*.<br>
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
@@ -53,7 +53,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202607.pdf)    [*New Draft Submitted*]<br>
+[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202607.pdf)    [*Latest draft: July 2026*]<br>
  with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
  [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202607.pdf)<br>
  **Talks:** Econometric Society European Meeting, IIOC, SMU, SITE, TSE, UCI, UCR, University of Chicago, WFA; by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, UCLA, the University of Florida, the University of Georgia, the University of Wisconsin IO/Finance Reading Group.
