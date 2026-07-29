@@ -36,13 +36,14 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Sticky Consumers and Cloud Welfare**](/files/cloud_inertia_ChuqingJin.pdf)   [*New Draft Coming Soon*]   
+[**Firm Inertia in the Public Cloud**](/files/cloud_inertia_ChuqingJin.pdf)   [*New Draft Submitted*]<br>
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
+ Previously circulated as *Sticky Consumers and Cloud Welfare*.<br>
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
- **Talks:** ZJU, NTU, BU Economics, IIOC, Paris Digital Conference, Queen's University Smith, Toulouse Digital Economics Conference, Paris Dauphine Digital Regulation Workshop; by coauthor: Microsoft, Jinan-SHUFE IO, University of Hong Kong, City University of Hong Kong, Hong Kong University of Science and Technology 
+ **Talks:** Boston University, EC'26, IIOC, NTU, Paris Dauphine Digital Regulation Workshop, Paris Digital Conference, Queen's University, Toulouse Digital Economics Conference, Zhejiang University; by coauthor: AI and Economics Workshop, Microsoft, Jinan-SHUFE IO Conference, City University of Hong Kong, Hong Kong University of Science and Technology, University of Hong Kong
 </summary>
 
-* *Cloud computing creates big welfare benefits, particularly for smaller firms, but we find that cloud customers are sticky to old cloud products, thus undermining cloud's benefits. Cloud migration services and introductory discounts, which incentivize firms to try new products, can improve both consumer welfare and provider revenue.*
+* *Firms are slow to adopt better cloud products even in a ``best-case'' switching environment where conventional technical and contractual frictions are minimal: within the same provider, data center, and product series. This inertia delays technology adoption and suppresses cloud usage, reducing both consumer surplus and provider revenue. Nevertheless, firms still derive substantial surplus from cloud use.*
 
 <img src="/images/rd_cloud_inertia.png" class = "center" width = "600" />
 
@@ -52,13 +53,13 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 
 <details>
 <summary markdown='span'>
-[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202512.pdf)    [*Submitted*]   
+[**Why Do Index Funds Have Market Power? Quantifying Frictions in the Index Fund Market**](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202607.pdf)    [*New Draft Submitted*]<br>
  with [Zach Brown](http://www-personal.umich.edu/~zachb/), [Mark Egan](https://sites.google.com/view/mark-egan), [Jihye Jeon](http://www.jihyejeon.com/), and [Alex Wu](https://sites.google.com/view/alexwu/)   
- [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202512.pdf)   
- **Talks:** SITE, TSE, SMU, IIOC, WFA, Econometric Society European Meeting, Chicago Booth Finance, UCI, UCR; by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, the University of Florida, the University of Georgia, the University of Wisconsin IO/Finance Reading Group.
+ [[Draft]](/files/brown_et_al_Why_Do_Index_Funds_Have_Market_Power_202607.pdf)<br>
+ **Talks:** Econometric Society European Meeting, IIOC, SMU, SITE, TSE, UCI, UCR, University of Chicago, WFA; by coauthor: American University, the Boston Conference on Markets and Competition, BU, CMU, LSE, the Montreal Summer Conference on Industrial Organization, Northwestern, OSU, Rice, Stockholm School of Economics, UCLA, the University of Florida, the University of Georgia, the University of Wisconsin IO/Finance Reading Group.
 </summary>
 
-* *We develop a novel quantitative dynamic model of demand for and supply of index funds to decompose the impact of **inertia**, **information frictions**, and **preference heterogeneity**. We find inertia is high, with only 3-5% of household updating their portfolio each month. Although inertia is high, its impact on the investment behavior of households is limited because investors struggle to optimize due to high information frictions. The introduction of ETFs lowered expense ratios through both the cost advantage and increased competition, but demand-side frictions substantially dampened its effect.*
+* *Despite the proliferation of near-identical index funds, fee dispersion remains large and persistent. We develop a dynamic model of demand and supply featuring **inertia**, **information frictions**, and **preference heterogeneity**, using fund-level new-sales data to identify how often investors update their holdings. Only 3-5% of investors update each month. Eliminating inertia alone lowers average fees by about 20%, while eliminating both inertia and information frictions lowers them by about 80%, highlighting the importance of their interaction. ETF entry reduced expense ratios through lower costs and greater competition, but demand-side frictions substantially dampened these gains.*
 
 <img src="/images/cf_sequential_decomp_retail.png" class = "center" width = "600" />
 
@@ -70,7 +71,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 <summary markdown='span'>
 **Why Multimarket Banks Exist: A Quantitative Theory With Demand Complementarity** [*Draft Available Upon Request*]      
  with [Jack Liebersohn](https://www.jackliebersohn.com/home) and [Yufeng Wu](https://sites.google.com/site/yufengwufinance/home)     
- **Talks:** TSE, UIC Finance Conference (upcoming).    
+ **Talks:** Toulouse School of Economics, UIC Finance Conference, Fischer-Shain Center Research Conference (Upcoming); by coauthor: OSU Fisher, Chicago Fed, University of California at Irvine, University of Bristol, University of Exeter, SAIF, City University of Hong Kong, The University of Hong Kong, HKUST, Cheung Kong Graduate School of Business, PBCSF Tsinghua University, Econometric Society DSE Conference (Upcoming).
 </summary>
 
 * *Consumers prefer to obtain multiple financial products from the same bank. We first provide causal evidence of this demand complementarity in banking using a shift-share design exploiting local variation in Conforming Loan Limits. Then, we estimate a dynamic oligopoly model to study its implications for banks that operate in multiple markets, quantifying impacts on bank synergies, pricing strategies, and the interconnection of their services across markets.*
