@@ -16,15 +16,15 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 # Working Papers
 <details>
 <summary markdown='span'>
-[**Does Competition Between Experts Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_JMP.pdf)  [*New Draft Coming Soon*]   
+[**Does Competition Improve Information Quality: Evidence from the Security Analyst Market**](/files/analyst_ChuqingJin_20260909.pdf)  [*Latest draft: September 2026*]<br>
 <span style="color:coral">
- [[Draft]](/files/analyst_ChuqingJin_JMP.pdf)   
+ [[Draft]](/files/analyst_ChuqingJin_20260909.pdf)<br>
  **Finalist for [Young Economists' Essay Award (YEEA)](https://earie.org/young-economists-essay-awards/) at EARIE 2021**
 </span>  
  **Talks:** NTU, SMU, IIOC, EARIE, FMA, BU Questrom, AFA (PhD Poster), BU, CMU Tepper, TSE, Oxford Saïd, ESSEC, OSU Fisher, Bank of Canada, Northwestern, NUS, Queen's University, CEPR-JIE, Chicago Household Finance Conference, Econometric Society European Winter Meeting, HEC Paris, NHH, Econometric Society World Congress
 </summary>
 
-* *Financial analysts are rewarded for being* ***the most accurate****. This leads them to distort their forecasts to differentiate themselves from their peers, but also disciplines their optimism bias. In the current market, the disciplinary effect dominates while both effects are present, so it is optimal to have moderate competition between analysts to both improve aggregate information and contain the distortion.*
+* *Experts are often rewarded for relative performance. For security analysts, this turns forecasting stocks into a **contest** in which analysts compete to be **the most accurate**. The contest can induce analysts to distort their forecasts to stand out, but can also discipline them against issuing overly optimistic forecasts. I develop and structurally estimate a forecasting contest model, incorporating relative-accuracy and optimism incentives. I find that the incentives interact, leading analysts with bullish signals to disproportionately exaggerate them, so aggregate information quality is inverted-U-shaped in competition.*
 
 <img src="/images/distortion.png" class = "center" width="600" />
 
