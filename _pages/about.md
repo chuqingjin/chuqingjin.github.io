@@ -39,7 +39,7 @@ I am an Assistant Professor at [Toulouse School of Economics](https://www.tse-fr
 [**Firm Inertia in the Public Cloud**](/files/cloud_inertia_ChuqingJin.pdf)   [*Latest draft: July 2026*]<br>
  with [Peichun Wang](https://sites.google.com/site/willpeichunwang/) and [Sida Peng](https://www.sidapeng.com/)  
  Previously circulated as *Sticky Consumers and Cloud Welfare*.<br>
- **Revise and resubmit, *American Economic Journal: Microeconomics***.<br>
+ Revise and resubmit, *American Economic Journal: Microeconomics*.<br>
  [[Draft]](/files/cloud_inertia_ChuqingJin.pdf)   
  **Talks:** Boston University, EC'26, IIOC, NTU, Paris Dauphine Digital Regulation Workshop, Paris Digital Conference, Queen's University, Toulouse Digital Economics Conference, Zhejiang University; by coauthor: AI and Economics Workshop, Microsoft, Jinan-SHUFE IO Conference, City University of Hong Kong, Hong Kong University of Science and Technology, University of Hong Kong
 </summary>
